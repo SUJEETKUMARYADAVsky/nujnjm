@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/nujnjm",
-      "program": "d:/nujnjm/build/Debug/outDebug",
+      "cwd": "d:/nujnjm/sum_of_n.cpp",
+      "program": "d:/nujnjm/sum_of_n.cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
