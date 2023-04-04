@@ -11,7 +11,7 @@ using namespace std;
         /* code */
     }
     else{
-        cout<<"leisure"; ygujgfytu
+        cout<<"leisure";
     }
     return 0;
 
