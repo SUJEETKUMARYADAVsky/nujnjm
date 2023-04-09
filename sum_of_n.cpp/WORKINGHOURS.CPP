@@ -13,6 +13,6 @@ using namespace std;
     else{
         cout<<"leisure";
     }
-    return 0;
+    return 0;                   
 
  }
