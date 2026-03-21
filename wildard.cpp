@@ -1,7 +1,9 @@
 class Solution {
 public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs,   
-        vector<vector<string>> res={}) {
+    vector<vector<string>
+     groupAnagrams(vector<string>& strs,   
+        vector<vector<string>> res={})
+         {
         for(auto ele:strs){
             string temp = ele;
             sort(temp.begin(),temp.end());
